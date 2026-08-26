@@ -18,7 +18,7 @@
 ```yaml
 Name:       Rishikesh R
 Location:   Chennai, Tamil Nadu, India
-University: Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College
+University: Vel Tech HighTech Dr.Rangarajan Dr.Sakunthala Engineering College
 ```
 </div>
 
