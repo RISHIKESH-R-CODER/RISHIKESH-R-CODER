@@ -1,7 +1,7 @@
 <div>
 <div align="center">
 
-# Hi 👋,I'm RISHIKESH R
+# Hii 👋,I'm RISHIKESH R
 
 ### 🚀 Full Stack Developer | Computer Science Engineering Student
 
