@@ -1,9 +1,9 @@
 <div>
 <div align="center">
 
-# Hii 👋,I'm RISHIKESH R
+# Hiii 👋,I'm RISHIKESH R
 
-### 🚀 Full Stack Developer | Computer Science Engineering Student
+### 🚀 Full Stack Developer | Computer Science Engineering Student | JAVA
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Java+Programmer;Full+Stack+Learner;Open+to+Internships" />
 
